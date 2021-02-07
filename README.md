@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
+[<img src='https://github.com/BeanCounterMacc/BeanCounterMacc/blob/main/banner.jpg' alt='banner' height='40'>]
 
 ### Hi there. My name is James Drysdale.
 
