@@ -1,6 +1,6 @@
 
-### Hi there.
-### My name is **James Drysdale**. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
+### Hi there. My name is **James Drysdale**. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
+####
 
 <img src='https://github.com/BeanCounterMacc/BeanCounterMacc/blob/main/banner.jpg' alt='banner' width='1000' height='150'>
 
@@ -12,8 +12,6 @@ Data analytics provides a very rare and satisfying balance of creative and analy
 
 ## Skills and Competencies
 
-TECHNOLOGICAL SKILLS: Problem solving, Programming, Data Visualization, Mathematics and Statistics
-
-BUSINESS SKILLS: Communication, Relating & Connecting, Persuasion & Influencing, Leadership
-
-COMPETENCIES: Excel, SQL, Python (Web scraping, Data wrangling, Data mining, Data analysis), Tableau
+#### TECHNOLOGICAL SKILLS: Problem solving, Programming, Data Visualization, Mathematics and Statistics
+#### BUSINESS SKILLS: Communication, Relating & Connecting, Persuasion & Influencing, Leadership
+#### COMPETENCIES: Excel, SQL, Python (Web scraping, Data wrangling, Data mining, Data analysis), Tableau
