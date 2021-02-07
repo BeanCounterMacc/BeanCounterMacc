@@ -2,7 +2,7 @@
 
 ####
 
-## About [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
+## About     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
 
 First and foremost, I love computational problem solving, and analysis. Ever since my first venture beyond Microsoft Excel, writing my first program to analyze, and then visualize that data, I have been obsessed with finding ways to integrate it into all my projects. I’ve come to deeply appreciate the increased breadth, and depth of insight, I’m able to gain in my work, through the integration of data analysis tools.
   
