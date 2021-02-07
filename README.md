@@ -1,4 +1,4 @@
-<img src='https://github.com/BeanCounterMacc/BeanCounterMacc/blob/main/banner.jpg' alt='banner' width='800' height='400'>
+<img src='https://github.com/BeanCounterMacc/BeanCounterMacc/blob/main/banner.jpg' alt='banner' width='800' height='200'>
 
 ### Hi there. My name is **James Drysdale**.
 
