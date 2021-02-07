@@ -4,7 +4,7 @@
 
 ## About     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
 
-First and foremost, I love computational problem solving, and analysis. Ever since my first venture beyond Microsoft Excel, writing my first program to analyze and then visualize data, I found myself proactively seeking out projects, which would allow me to integrate data analysis tools.
+First and foremost, I love computational problem solving, and analysis. Ever since my first venture beyond Microsoft Excel, writing my first program to analyze and then visualize data, I found myself proactively seeking out projects, which would allow me to integrate analytic tools.
 
 My first venture with data analysis, as an auditor, was to use analytic tools on accounting transactions to test assertions being made about particular business accounts. Then, as a senior accountant, I applied data analysis tools to create dashboards on business performance. Now, as a business analyst, I use these tools daily to help businesses identify problems, streamline processes, and report on key performance metrics. As I reflect over the evolution of my career path, I’ve come to deeply appreciate the amplification of insight in my work, which these tools provide.
 
