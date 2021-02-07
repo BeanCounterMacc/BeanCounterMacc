@@ -1,5 +1,5 @@
 
-### Hi there. My name is _**James Drysdale**_.
+#### Hi there. My name is ### **James Drysdale**.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
 ####
 
