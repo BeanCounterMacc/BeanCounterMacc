@@ -9,3 +9,5 @@ TECHNOLOGICAL SKILLS: Problem solving, Programming, Data Visualization, Mathemat
 BUSINESS SKILLS: Communication, Relating & Connecting, Persuasion & Influencing, Leadership
 
 COMPETENCIES: Excel, SQL, Python (Web scraping, Data wrangling, Data mining, Data analysis), Tableau
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/jameswdrysdale/) 
