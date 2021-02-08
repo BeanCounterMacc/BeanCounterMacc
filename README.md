@@ -12,6 +12,6 @@ The point which I knew I had found a passion for data analysis, was when I would
 
 ## Skills and Competencies
 
-#### COMPETENCIES: Python (Web scraping, Data wrangling, Data mining, Data analysis), SQL, Tableau, Excel
-#### TECHNOLOGICAL SKILLS: Problem solving, Programming, Mathematics and Statistics, Data Visualization
-#### COMPETENCIES: BUSINESS SKILLS: Communication, Relating & Connecting, Persuasion & Influencing, Leadership, Team Player
+#### COMPETENCIES: Python (Web Scraping, Data Wrangling, Data Mining, Data Analysis), SQL, Tableau, Excel
+#### TECHNOLOGICAL SKILLS: Problem Solving, Programming, Mathematics and Statistics, Data Visualization
+#### BUSINESS SKILLS: Communication, Relating & Connecting, Persuasion & Influencing, Leadership, Team Player
